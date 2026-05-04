@@ -45,6 +45,7 @@ Au-delà de la simple manipulation de données, ce notebook intègre une approch
 
 ## 🤝 Contact
 **Israa Mokadem** – Futur Étudiante en Data et cyber Paris 8 
+contact: isramokaddem0@gmail.com |    0635074677
 *Projet réalisé avec rigueur et passion pour l'optimisation de la mobilité.*
 
 ---
